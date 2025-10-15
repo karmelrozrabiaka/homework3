@@ -1,5 +1,6 @@
 - bulki
 - szynka
 - ser
+- herbata
 - ketchup (remote)
 - musztarda (remote)
