@@ -1,0 +1,3 @@
+- bulki
+- szynka
+- ser
